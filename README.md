@@ -2,6 +2,9 @@
 
 Analysis of search query patterns and ranking algorithm improvements for e-commerce platforms.
 
+## 📦 Data Setup
+Visit: https://www.kaggle.com/c/home-depot-product-search-relevance/data
+
 ## 🎯 Business Problem
 Low search relevance leads to poor user experience and lost revenue. This project optimizes product search ranking to improve click-through rates.
 
